@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="C:\Users\DELL\Pictures\gitbg.png" alt="Kaushiki Biswas profile banner" width="100%" />
+  <img src="./banner.svg" alt="Kaushiki Biswas profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kaushiki-Biswas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kaushiki-biswas-a20694331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cse.kaushiki@gmail.com"><img src="https://img.shields.io/badge/Email-cse.kaushiki%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kaushiki-biswas-a20694331"><img src="https://img.shields.io/badge/LinkedIn-Kaushiki%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -91,16 +91,5 @@ A personalized gifting platform designed using **Design Thinking and UI/UX princ
 I believe the best way to learn technology is to **build things with it**.
 
 ---
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaushiki-biswas-a20694331">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaushiki%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kaushiki-Biswas">
-    <img src="https://img.shields.io/badge/GitHub-Kaushiki--Biswas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <p align="center"><i>✨ Thanks for visiting my profile!</i></p>
