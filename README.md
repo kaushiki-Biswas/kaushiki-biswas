@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kaushiki-banner.jpg" alt="Kaushiki Biswas profile banner" width="100%" />
+  <img src="C:\Users\DELL\Pictures\gitbg.png" alt="Kaushiki Biswas profile banner" width="100%" />
 </p>
 
 <p align="center">
