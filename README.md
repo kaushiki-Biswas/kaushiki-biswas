@@ -3,10 +3,6 @@
 ### `CSE Student` • `AI & Analytics` • `AI/ML Enthusiast` • `Builder`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+%26+Analytics+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Hackathon+Builder;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/kaushiki-Biswas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/kaushiki-biswas-a20694331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
@@ -79,23 +75,6 @@ An AI-driven application focused on preliminary skin condition analysis and pers
 A personalized gifting platform designed using **Design Thinking and UI/UX principles**, featuring AI-based gift recommendations, occasion filtering and budget management.
 
 **Built with:** `Figma` `UI/UX` `Design Thinking` `AI Concepts`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushiki-Biswas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Kaushiki's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiki-Biswas&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaushiki-Biswas&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 ---
 
