@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaushiki-Biswas/kaushiki-biswas/main/kaushiki-banner.png" alt="Kaushiki Biswas profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaushiki-Biswas/kaushiki-biswas/main/gitbg.png" alt="Kaushiki Biswas profile banner" width="100%" />
 </p>
 
 <p align="center">
